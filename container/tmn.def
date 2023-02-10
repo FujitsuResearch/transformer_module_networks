@@ -1,0 +1,7 @@
+Bootstrap: docker
+From: nvcr.io/nvidia/pytorch:20.12-py3
+%post
+    apt-get -y update
+    apt-get -y install python3-pip
+    pip3 install --no-cache-dir numpy tqdm scipy scikit-learn ipython
+    pip3 install --no-cache-dir transformers==2.11.0

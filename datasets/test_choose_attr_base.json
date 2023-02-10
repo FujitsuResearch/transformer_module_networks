@@ -1,0 +1,402 @@
+[
+    {
+        "img_id": "n546616",
+        "label": {
+            "tall": 1.0
+        },
+        "question_id": "201110473",
+        "sent": "Is the dessert that is the same color as the marshmallow tall or short?"
+    },
+    {
+        "img_id": "n83784",
+        "label": {
+            "metal": 1.0
+        },
+        "question_id": "201246996",
+        "sent": "Is the furniture that is made of the same material as the chair wood or metal?"
+    },
+    {
+        "img_id": "n311910",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "201322443",
+        "sent": "Is the sign that is made of the same material as the vehicle white or black?"
+    },
+    {
+        "img_id": "n131634",
+        "label": {
+            "silver": 1.0
+        },
+        "question_id": "201346319",
+        "sent": "Is the motorcycle that is made of the same material as the car blue or silver?"
+    },
+    {
+        "img_id": "n344136",
+        "label": {
+            "soft": 1.0
+        },
+        "question_id": "201399884",
+        "sent": "Is the furniture that is made of the same material as the window soft or hard?"
+    },
+    {
+        "img_id": "n331357",
+        "label": {
+            "large": 1.0
+        },
+        "question_id": "201403968",
+        "sent": "Is the animal that is the same color as the building large or small?"
+    },
+    {
+        "img_id": "n181210",
+        "label": {
+            "peeled": 1.0
+        },
+        "question_id": "201479098",
+        "sent": "Is the fruit that is the same shape as the lid peeled or unpeeled?"
+    },
+    {
+        "img_id": "n525901",
+        "label": {
+            "tall": 1.0
+        },
+        "question_id": "201556436",
+        "sent": "Is the furniture that is the same color as the laptop short or tall?"
+    },
+    {
+        "img_id": "n170941",
+        "label": {
+            "blue": 1.0
+        },
+        "question_id": "20157006",
+        "sent": "Is the coffee mug that is the same shape as the pancake white or blue?"
+    },
+    {
+        "img_id": "n275148",
+        "label": {
+            "short": 1.0
+        },
+        "question_id": "201621287",
+        "sent": "Is the furniture that is made of the same material as the storage box long or short?"
+    },
+    {
+        "img_id": "n501609",
+        "label": {
+            "red": 1.0
+        },
+        "question_id": "201623317",
+        "sent": "Is the appliance that is the same shape as the floor white or red?"
+    },
+    {
+        "img_id": "n59676",
+        "label": {
+            "plastic": 1.0
+        },
+        "question_id": "201623957",
+        "sent": "Is the cooking utensil that is made of the same material as the spatula plastic or iron?"
+    },
+    {
+        "img_id": "n567860",
+        "label": {
+            "peeled": 1.0
+        },
+        "question_id": "201756488",
+        "sent": "Is the fruit that is the same color as the banana bunch peeled or unpeeled?"
+    },
+    {
+        "img_id": "n567860",
+        "label": {
+            "young": 1.0
+        },
+        "question_id": "201756496",
+        "sent": "Is the animal that is the same color as the door young or old?"
+    },
+    {
+        "img_id": "n350732",
+        "label": {
+            "green": 1.0
+        },
+        "question_id": "201760535",
+        "sent": "Is the furniture that is the same color as the soccer ball green or black?"
+    },
+    {
+        "img_id": "n246334",
+        "label": {
+            "large": 1.0
+        },
+        "question_id": "201763583",
+        "sent": "Is the mirror that is the same shape as the nightstand small or large?"
+    },
+    {
+        "img_id": "n55058",
+        "label": {
+            "red": 1.0
+        },
+        "question_id": "20177477",
+        "sent": "Is the cooking utensil that is made of the same material as the rectangular table red or white?"
+    },
+    {
+        "img_id": "n530733",
+        "label": {
+            "plastic": 1.0
+        },
+        "question_id": "201798294",
+        "sent": "Is the bag that is made of the same material as the trash can wicker or plastic?"
+    },
+    {
+        "img_id": "n256120",
+        "label": {
+            "old": 1.0
+        },
+        "question_id": "201951485",
+        "sent": "Is the vehicle that is made of the same material as the pole young or old?"
+    },
+    {
+        "img_id": "n526228",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "201981998",
+        "sent": "Is the device that is made of the same material as the phone black or white?"
+    },
+    {
+        "img_id": "n14087",
+        "label": {
+            "comfortable": 1.0
+        },
+        "question_id": "202059921",
+        "sent": "Is the furniture that is the same color as the tree uncomfortable or comfortable?"
+    },
+    {
+        "img_id": "n433692",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "202081447",
+        "sent": "Is the device that is the same color as the lamp white or black?"
+    },
+    {
+        "img_id": "n433692",
+        "label": {
+            "black": 1.0
+        },
+        "question_id": "202081460",
+        "sent": "Is the device that is the same shape as the pot white or black?"
+    },
+    {
+        "img_id": "n69237",
+        "label": {
+            "large": 1.0
+        },
+        "question_id": "202161879",
+        "sent": "Is the bag that is the same color as the bookcase large or small?"
+    },
+    {
+        "img_id": "n69237",
+        "label": {
+            "black": 1.0
+        },
+        "question_id": "202161904",
+        "sent": "Is the item of furniture that is made of the same material as the floor black or green?"
+    },
+    {
+        "img_id": "n578564",
+        "label": {
+            "rectangular": 1.0
+        },
+        "question_id": "202218487",
+        "sent": "Is the cooking utensil that is made of the same material as the picture round or rectangular?"
+    },
+    {
+        "img_id": "n77818",
+        "label": {
+            "full": 1.0
+        },
+        "question_id": "202227844",
+        "sent": "Is the furniture that is made of the same material as the pepper grinder full or empty?"
+    },
+    {
+        "img_id": "n460385",
+        "label": {
+            "brown": 1.0
+        },
+        "question_id": "202240790",
+        "sent": "Is the furniture that is the same color as the shirt brown or white?"
+    },
+    {
+        "img_id": "n460385",
+        "label": {
+            "wood": 1.0
+        },
+        "question_id": "202240793",
+        "sent": "Is the furniture that is made of the same material as the table wood or wicker?"
+    },
+    {
+        "img_id": "n68769",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "20226381",
+        "sent": "Is the furniture that is made of the same material as the ceiling blue or white?"
+    },
+    {
+        "img_id": "n100991",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "202284789",
+        "sent": "Is the food that is the same shape as the plate orange or white?"
+    },
+    {
+        "img_id": "n192021",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "20284983",
+        "sent": "Is the furniture that is made of the same material as the fan black or white?"
+    },
+    {
+        "img_id": "n554880",
+        "label": {
+            "yellow": 1.0
+        },
+        "question_id": "20306141",
+        "sent": "Is the device that is the same color as the shirt blue or yellow?"
+    },
+    {
+        "img_id": "n554880",
+        "label": {
+            "old": 1.0
+        },
+        "question_id": "20306146",
+        "sent": "Is the device that is the same color as the lamp old or young?"
+    },
+    {
+        "img_id": "n350766",
+        "label": {
+            "gray": 1.0
+        },
+        "question_id": "20316943",
+        "sent": "Is the cooking utensil that is the same color as the garbage bin gray or orange?"
+    },
+    {
+        "img_id": "n398257",
+        "label": {
+            "curved": 1.0
+        },
+        "question_id": "20381119",
+        "sent": "Is the device that is made of the same material as the computer monitor curved or straight?"
+    },
+    {
+        "img_id": "n207708",
+        "label": {
+            "full": 1.0
+        },
+        "question_id": "20441870",
+        "sent": "Is the furniture that is the same color as the door full or empty?"
+    },
+    {
+        "img_id": "n28996",
+        "label": {
+            "brown": 1.0
+        },
+        "question_id": "20611520",
+        "sent": "Is the dessert that is the same shape as the container blue or brown?"
+    },
+    {
+        "img_id": "n184385",
+        "label": {
+            "fried": 1.0
+        },
+        "question_id": "20636767",
+        "sent": "Is the vegetable that is the same shape as the stove uncooked or fried?"
+    },
+    {
+        "img_id": "n400036",
+        "label": {
+            "large": 1.0
+        },
+        "question_id": "20652282",
+        "sent": "Is the bag that is the same shape as the soccer ball large or little?"
+    },
+    {
+        "img_id": "n486200",
+        "label": {
+            "small": 1.0
+        },
+        "question_id": "20656845",
+        "sent": "Is the sign that is made of the same material as the vehicle large or small?"
+    },
+    {
+        "img_id": "n67005",
+        "label": {
+            "small": 1.0
+        },
+        "question_id": "20716785",
+        "sent": "Is the furniture that is the same color as the cord large or small?"
+    },
+    {
+        "img_id": "n433532",
+        "label": {
+            "brown": 1.0
+        },
+        "question_id": "20756524",
+        "sent": "Is the furniture that is made of the same material as the spoon brown or white?"
+    },
+    {
+        "img_id": "n173807",
+        "label": {
+            "red": 1.0
+        },
+        "question_id": "2076115",
+        "sent": "Is the sign that is the same color as the chimney white or red?"
+    },
+    {
+        "img_id": "n507959",
+        "label": {
+            "open": 1.0
+        },
+        "question_id": "20836297",
+        "sent": "Is the piece of furniture that is the same color as the umbrella closed or open?"
+    },
+    {
+        "img_id": "n507959",
+        "label": {
+            "white": 1.0
+        },
+        "question_id": "20836322",
+        "sent": "Is the watercraft that is the same color as the shirt brown or white?"
+    },
+    {
+        "img_id": "n293477",
+        "label": {
+            "plastic": 1.0
+        },
+        "question_id": "20856610",
+        "sent": "Is the hair clip that is the same color as the snack wicker or plastic?"
+    },
+    {
+        "img_id": "n293477",
+        "label": {
+            "gray": 1.0
+        },
+        "question_id": "20856631",
+        "sent": "Is the device that is made of the same material as the hair clip red or gray?"
+    },
+    {
+        "img_id": "n403734",
+        "label": {
+            "small": 1.0
+        },
+        "question_id": "20899155",
+        "sent": "Is the device that is the same color as the umbrella large or small?"
+    },
+    {
+        "img_id": "n513429",
+        "label": {
+            "closed": 1.0
+        },
+        "question_id": "2097555",
+        "sent": "Is the device that is the same color as the keyboard open or closed?"
+    }
+]

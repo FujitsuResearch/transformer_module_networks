@@ -1,0 +1,402 @@
+[
+    {
+        "img_id": "n16656",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "37",
+        "sent": "Are there both a still leaf and a red shirt in the image?"
+    },
+    {
+        "img_id": "n100991",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "45",
+        "sent": "Are there both a square tray and a glass cup in this scene?"
+    },
+    {
+        "img_id": "n554880",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "2",
+        "sent": "Are there both a open sweater and a light brown chair in the picture?"
+    },
+    {
+        "img_id": "n382416",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "27",
+        "sent": "Are there both a black heel and a white cabinet in this scene?"
+    },
+    {
+        "img_id": "n28572",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20",
+        "sent": "Are there both a red napkin and a large plate in the picture?"
+    },
+    {
+        "img_id": "n499081",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "16",
+        "sent": "Are there both a small picture and a brown rug in this image?"
+    },
+    {
+        "img_id": "n88366",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "19",
+        "sent": "Are there both a tan helmet and a red jacket in the image?"
+    },
+    {
+        "img_id": "n571179",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "7",
+        "sent": "Are there both a gray coat and a standing man in the image?"
+    },
+    {
+        "img_id": "n305495",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "24",
+        "sent": "Are there both a thin blind and a small fan in the image?"
+    },
+    {
+        "img_id": "n140421",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "22",
+        "sent": "Are there both a colorful curtain and a tall refrigerator in the picture?"
+    },
+    {
+        "img_id": "n168412",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "42",
+        "sent": "Are there both a walking horse and a dry ground in this photo?"
+    },
+    {
+        "img_id": "n146522",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "46",
+        "sent": "Are there both a green field and a metal bat in the image?"
+    },
+    {
+        "img_id": "n309148",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "36",
+        "sent": "Are there both a gray street and a low bridge in the image?"
+    },
+    {
+        "img_id": "n23181",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "11",
+        "sent": "Are there both a still bed and a still table in this scene?"
+    },
+    {
+        "img_id": "n119886",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "21",
+        "sent": "Are there both a brown toilet and a thin pipe in this scene?"
+    },
+    {
+        "img_id": "n500209",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "1",
+        "sent": "Are there both a raw squash and a standing picture in this photo?"
+    },
+    {
+        "img_id": "n167164",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "18",
+        "sent": "Are there both a straight street and a blue house in this photo?"
+    },
+    {
+        "img_id": "n310828",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "23",
+        "sent": "Are there both a white computer and a female person in the image?"
+    },
+    {
+        "img_id": "n229548",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "44",
+        "sent": "Are there both a small helicopter and a hard cable in this scene?"
+    },
+    {
+        "img_id": "n508641",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "47",
+        "sent": "Are there both a black helmet and a white bat in the image?"
+    },
+    {
+        "img_id": "n573460",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "38",
+        "sent": "Are there both a black pant and a white racket in this scene?"
+    },
+    {
+        "img_id": "n380113",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "17",
+        "sent": "Are there both a still soccer and a still folding in the picture?"
+    },
+    {
+        "img_id": "n167552",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "33",
+        "sent": "Are there both a yellow flower and a red rug in this photograph?"
+    },
+    {
+        "img_id": "n131634",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "9",
+        "sent": "Are there both a blue van and a wide street in the image?"
+    },
+    {
+        "img_id": "n124651",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "14",
+        "sent": "Are there both a clean road and a running traffic in the image?"
+    },
+    {
+        "img_id": "n527589",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "32",
+        "sent": "Are there both a small banana and a narrow basket in the picture?"
+    },
+    {
+        "img_id": "n256120",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "8",
+        "sent": "Are there both a cloth tent and a green flag in the image?"
+    },
+    {
+        "img_id": "n246334",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "49",
+        "sent": "Are there both a covered bed and a red pillowcase in this photo?"
+    },
+    {
+        "img_id": "n525029",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "40",
+        "sent": "Are there both a short wire and a long train in this photograph?"
+    },
+    {
+        "img_id": "n151768",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "12",
+        "sent": "Are there both a hard cane and a narrow street in the image?"
+    },
+    {
+        "img_id": "n263180",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "39",
+        "sent": "Are there both a rectangular apartment and a white bus in this photo?"
+    },
+    {
+        "img_id": "n274905",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "43",
+        "sent": "Are there both a brown pant and a black and white hat in the image?"
+    },
+    {
+        "img_id": "n166008",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "25",
+        "sent": "Are there both a dirty water and a waiting customer in this image?"
+    },
+    {
+        "img_id": "n187544",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "13",
+        "sent": "Are there both a playing person and a red shirt in this photo?"
+    },
+    {
+        "img_id": "n528403",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "30",
+        "sent": "Are there both a grassy field and a large skirt in the picture?"
+    },
+    {
+        "img_id": "n143672",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "31",
+        "sent": "Are there both a wood forest and a green snow in this photograph?"
+    },
+    {
+        "img_id": "n314630",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "26",
+        "sent": "Are there both a brick house and a rounded toaster in this image?"
+    },
+    {
+        "img_id": "n329479",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "10",
+        "sent": "Are there both a black t-shirt and a white shoe in this photograph?"
+    },
+    {
+        "img_id": "n223750",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "48",
+        "sent": "Are there both a large necklace and a sleeveless dress in the picture?"
+    },
+    {
+        "img_id": "n513100",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "5",
+        "sent": "Are there both a large patio and a small fence in this photograph?"
+    },
+    {
+        "img_id": "n14",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "0",
+        "sent": "Are there both a hard skateboard and a smooth motorcycle in the picture?"
+    },
+    {
+        "img_id": "n279581",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "34",
+        "sent": "Are there both a silver bat and a black shirt in this image?"
+    },
+    {
+        "img_id": "n209843",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "41",
+        "sent": "Are there both a hard cabinet and a black door in this photograph?"
+    },
+    {
+        "img_id": "n283587",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "3",
+        "sent": "Are there both a beige sofa and a square cupboard in this photograph?"
+    },
+    {
+        "img_id": "n315859",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "6",
+        "sent": "Are there both a red tail and a red word in this scene?"
+    },
+    {
+        "img_id": "n23762",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "35",
+        "sent": "Are there both a small room and a white flower in this image?"
+    },
+    {
+        "img_id": "n208302",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "28",
+        "sent": "Are there both a brown sidewalk and a tall grass in the image?"
+    },
+    {
+        "img_id": "n141939",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "4",
+        "sent": "Are there both a black and white trash and a brown countertop in this photo?"
+    },
+    {
+        "img_id": "n119944",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "15",
+        "sent": "Are there both a walking elephant and a standing chicken in this image?"
+    },
+    {
+        "img_id": "n153293",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "29",
+        "sent": "Are there both a dirty floor and a clean ceiling in this photograph?"
+    }
+]

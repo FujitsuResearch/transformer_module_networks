@@ -1,0 +1,402 @@
+[
+    {
+        "img_id": "n546616",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201110473",
+        "sent": "Does the dessert that is the same color as the marshmallow look tall?"
+    },
+    {
+        "img_id": "n83784",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201246996",
+        "sent": "Does the furniture that is made of the same material as the chair look metal?"
+    },
+    {
+        "img_id": "n311910",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201322443",
+        "sent": "Does the sign that is made of the same material as the vehicle look white?"
+    },
+    {
+        "img_id": "n131634",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201346319",
+        "sent": "Does the motorcycle that is made of the same material as the car look silver?"
+    },
+    {
+        "img_id": "n344136",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201399884",
+        "sent": "Does the furniture that is made of the same material as the window look soft?"
+    },
+    {
+        "img_id": "n331357",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201403968",
+        "sent": "Does the animal that is the same color as the building look large?"
+    },
+    {
+        "img_id": "n181210",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201479098",
+        "sent": "Does the fruit that is the same shape as the lid look peeled?"
+    },
+    {
+        "img_id": "n525901",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201556436",
+        "sent": "Does the furniture that is the same color as the laptop look tall?"
+    },
+    {
+        "img_id": "n170941",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20157006",
+        "sent": "Does the coffee mug that is the same shape as the pancake look blue?"
+    },
+    {
+        "img_id": "n275148",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201621287",
+        "sent": "Does the furniture that is made of the same material as the storage box look short?"
+    },
+    {
+        "img_id": "n501609",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201623317",
+        "sent": "Does the appliance that is the same shape as the floor look red?"
+    },
+    {
+        "img_id": "n59676",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201623957",
+        "sent": "Does the cooking utensil that is made of the same material as the spatula look plastic?"
+    },
+    {
+        "img_id": "n567860",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201756488",
+        "sent": "Does the fruit that is the same color as the banana bunch look peeled?"
+    },
+    {
+        "img_id": "n567860",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201756496",
+        "sent": "Does the animal that is the same color as the door look young?"
+    },
+    {
+        "img_id": "n350732",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201760535",
+        "sent": "Does the furniture that is the same color as the soccer ball look green?"
+    },
+    {
+        "img_id": "n246334",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201763583",
+        "sent": "Does the mirror that is the same shape as the nightstand look large?"
+    },
+    {
+        "img_id": "n55058",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20177477",
+        "sent": "Does the cooking utensil that is made of the same material as the rectangular table look red?"
+    },
+    {
+        "img_id": "n530733",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201798294",
+        "sent": "Does the bag that is made of the same material as the trash can look plastic?"
+    },
+    {
+        "img_id": "n256120",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "201951485",
+        "sent": "Does the vehicle that is made of the same material as the pole look old?"
+    },
+    {
+        "img_id": "n526228",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "201981998",
+        "sent": "Does the device that is made of the same material as the phone look white?"
+    },
+    {
+        "img_id": "n14087",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202059921",
+        "sent": "Does the furniture that is the same color as the tree look comfortable?"
+    },
+    {
+        "img_id": "n433692",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "202081447",
+        "sent": "Does the device that is the same color as the lamp look white?"
+    },
+    {
+        "img_id": "n433692",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "202081460",
+        "sent": "Does the device that is the same shape as the pot look black?"
+    },
+    {
+        "img_id": "n69237",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "202161879",
+        "sent": "Does the bag that is the same color as the bookcase look large?"
+    },
+    {
+        "img_id": "n69237",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202161904",
+        "sent": "Does the item of furniture that is made of the same material as the floor look black?"
+    },
+    {
+        "img_id": "n578564",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202218487",
+        "sent": "Does the cooking utensil that is made of the same material as the picture look rectangular?"
+    },
+    {
+        "img_id": "n77818",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202227844",
+        "sent": "Does the furniture that is made of the same material as the pepper grinder look full?"
+    },
+    {
+        "img_id": "n460385",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "202240790",
+        "sent": "Does the furniture that is the same color as the shirt look brown?"
+    },
+    {
+        "img_id": "n460385",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202240793",
+        "sent": "Does the furniture that is made of the same material as the table look wood?"
+    },
+    {
+        "img_id": "n68769",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20226381",
+        "sent": "Does the furniture that is made of the same material as the ceiling look white?"
+    },
+    {
+        "img_id": "n100991",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "202284789",
+        "sent": "Does the food that is the same shape as the plate look white?"
+    },
+    {
+        "img_id": "n192021",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20284983",
+        "sent": "Does the furniture that is made of the same material as the fan look white?"
+    },
+    {
+        "img_id": "n554880",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20306141",
+        "sent": "Does the device that is the same color as the shirt look yellow?"
+    },
+    {
+        "img_id": "n554880",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20306146",
+        "sent": "Does the device that is the same color as the lamp look old?"
+    },
+    {
+        "img_id": "n350766",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20316943",
+        "sent": "Does the cooking utensil that is the same color as the garbage bin look gray?"
+    },
+    {
+        "img_id": "n398257",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20381119",
+        "sent": "Does the device that is made of the same material as the computer monitor look curved?"
+    },
+    {
+        "img_id": "n207708",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20441870",
+        "sent": "Does the furniture that is the same color as the door look full?"
+    },
+    {
+        "img_id": "n28996",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20611520",
+        "sent": "Does the dessert that is the same shape as the container look brown?"
+    },
+    {
+        "img_id": "n184385",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20636767",
+        "sent": "Does the vegetable that is the same shape as the stove look fried?"
+    },
+    {
+        "img_id": "n400036",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20652282",
+        "sent": "Does the bag that is the same shape as the soccer ball look large?"
+    },
+    {
+        "img_id": "n486200",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20656845",
+        "sent": "Does the sign that is made of the same material as the vehicle look small?"
+    },
+    {
+        "img_id": "n67005",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20716785",
+        "sent": "Does the furniture that is the same color as the cord look small?"
+    },
+    {
+        "img_id": "n433532",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20756524",
+        "sent": "Does the furniture that is made of the same material as the spoon look brown?"
+    },
+    {
+        "img_id": "n173807",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "2076115",
+        "sent": "Does the sign that is the same color as the chimney look red?"
+    },
+    {
+        "img_id": "n507959",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "20836297",
+        "sent": "Does the piece of furniture that is the same color as the umbrella look open?"
+    },
+    {
+        "img_id": "n507959",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20836322",
+        "sent": "Does the watercraft that is the same color as the shirt look white?"
+    },
+    {
+        "img_id": "n293477",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20856610",
+        "sent": "Does the hair clip that is the same color as the snack look plastic?"
+    },
+    {
+        "img_id": "n293477",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20856631",
+        "sent": "Does the device that is made of the same material as the hair clip look gray?"
+    },
+    {
+        "img_id": "n403734",
+        "label": {
+            "yes": 1.0
+        },
+        "question_id": "20899155",
+        "sent": "Does the device that is the same color as the umbrella look small?"
+    },
+    {
+        "img_id": "n513429",
+        "label": {
+            "no": 1.0
+        },
+        "question_id": "2097555",
+        "sent": "Does the device that is the same color as the keyboard look closed?"
+    }
+]
