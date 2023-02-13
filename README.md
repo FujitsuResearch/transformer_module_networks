@@ -222,3 +222,6 @@ Test on CLOSURE
 ```bash
 python3 eval_closure_ablation_vf.py --from_pretrained ***/***.bin --vf vt --vl --st
 ```
+
+## License
+This project is licensed under the terms of the BSD 3-Clause Clear License. Copyright 2022 Fujitsu Limited. All Rights Reserved.
