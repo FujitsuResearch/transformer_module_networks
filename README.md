@@ -20,7 +20,7 @@ Singularity 3.x
 Base image: [nvcr.io/nvidia/pytorch:20.12-py3](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_20-12.html#rel_20-12)  
 
 Additional libraries:  
-[numpy](https://pypi.python.org/pypi/numpy) [tqdm](https://pypi.python.org/pypi/tqdm) [scipy](https://pypi.python.org/pypi/scipy) [scikit-learn](https://pypi.python.org/pypi/scikit-learn) [ipython](https://pypi.python.org/pypi/ipython) **[transformers](https://pypi.python.org/pypi/transformers)==2.11.0**  
+[numpy](https://pypi.python.org/pypi/numpy) [tqdm](https://pypi.python.org/pypi/tqdm) [pillow](https://pypi.org/project/Pillow/) **[transformers](https://pypi.python.org/pypi/transformers)==2.11.0**  
 (Some of them are already installed in the image)
 
 ## Data Setup
